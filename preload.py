@@ -3,7 +3,7 @@ from argparse import ArgumentParser
 
 from modules import paths
 
-default_ddp_path = Path(path.models_path, 'deepdanbooru')
+default_ddp_path = Path(paths.models_path, 'deepdanbooru')
 
 
 def preload(parser: ArgumentParser):
