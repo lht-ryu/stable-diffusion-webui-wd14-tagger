@@ -7,7 +7,6 @@ from pathlib import Path
 from glob import glob
 from PIL import Image, UnidentifiedImageError
 
-
 from modules.call_queue import wrap_gradio_gpu_call
 
 from modules import ui
