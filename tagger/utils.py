@@ -54,10 +54,23 @@ def refresh_interrogators() -> List[str]:
         ),
         'wd14-vit': WaifuDiffusionInterrogator(
             'wd14-vit',
-            repo_id='SmilingWolf/wd-v1-4-vit-tagger'),
+            repo_id='SmilingWolf/wd-v1-4-vit-tagger'
+        ),
         'wd14-convnext': WaifuDiffusionInterrogator(
             'wd14-convnext',
             repo_id='SmilingWolf/wd-v1-4-convnext-tagger'
+        ),
+        'wd-vit-tagger-v3': WaifuDiffusionInterrogator(
+            'wd-vit-tagger-v3',
+            repo_id='SmilingWolf/wd-vit-tagger-v3'
+        ),
+        'wd-swinv2-tagger-v3': WaifuDiffusionInterrogator(
+            'wd-swinv2-tagger-v3',
+            repo_id='SmilingWolf/wd-swinv2-tagger-v3'
+        ),
+        'wd-convnext-tagger-v3': WaifuDiffusionInterrogator(
+            'wd-convnext-tagger-v3',
+            repo_id='SmilingWolf/wd-convnext-tagger-v3'
         ),
     }
 
