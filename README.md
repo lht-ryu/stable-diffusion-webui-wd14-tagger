@@ -1,4 +1,4 @@
-# Supports tagger-v3
+# Support tagger-v3
 
 wd-vit-tagger-v3,wd-swinv2-tagger-v3,wd-convnext-tagger-v3
 
