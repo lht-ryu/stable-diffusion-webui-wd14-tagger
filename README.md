@@ -1,3 +1,16 @@
+# Supports tagger-v3
+
+wd-vit-tagger-v3,wd-swinv2-tagger-v3,wd-convnext-tagger-v3
+
+![image](https://github.com/lht-ryu/stable-diffusion-webui-wd14-tagger/assets/127936104/63a5ddc2-abc8-4904-bafd-5d8c09308deb)
+
+
+https://huggingface.co/SmilingWolf/wd-vit-tagger-v3
+
+https://huggingface.co/SmilingWolf/wd-swinv2-tagger-v3
+
+https://huggingface.co/SmilingWolf/wd-convnext-tagger-v3
+
 ***This branch is unmaintained!***
 https://github.com/toriato/stable-diffusion-webui-wd14-tagger/issues/108
 ---
@@ -60,6 +73,7 @@ I didn't make any models, and most of the code was heavily borrowed from the [De
 
 ## Screenshot
 ![Screenshot](docs/screenshot.png)
+
 
 Artwork made by [hecattaart](https://vk.com/hecattaart?w=wall-89063929_3767)
 
